@@ -1,4 +1,4 @@
-## Starter Project
+##  Project
 
 - css included (global styles, styled components)
 - folders/files already setup
